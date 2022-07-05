@@ -1,7 +1,0 @@
-combined/
-gitdemo/
-helloworld/
-learn-terraform-docker-container/
-repo1/
-repo2/
-repo3/
